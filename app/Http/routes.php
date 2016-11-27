@@ -16,3 +16,4 @@ Route::get('/', function () {
 });
 
 Route::resource("usuario","UsuarioController");
+Route::resource("listapublicacion","PublicacionController");
