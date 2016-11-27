@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace LikeHome\Events;
 
 abstract class Event
 {
